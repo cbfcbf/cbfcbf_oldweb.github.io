@@ -1,12 +1,44 @@
 ---
 permalink: /
+<<<<<<< HEAD
+title: "Research"
+excerpt: "About me"
+=======
 title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+>>>>>>> c74ca01e3e17eb353b28618753374f972c3c9585
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+
+## 2023.8 A first-authored paper on ***Physical Review E*** is under review
+
+**Temporal clustering coefficient uncovers the hidden pattern in temporal networks**
+--by Bofan Chen, Guyu Hou, and Aming Li
+
+<!--[**Temporal clustering coefficient uncovers the hidden pattern in temporal networks**
+--by Bofan Chen, Guyu Hou, and Aming Li](https://www.example.com/my%20great%20page )-->
+
+We expand upon the conventional analysis of clustering coefficients---a fundamental feature capturing the structural patterns of networks---in static networks by investigating the dynamical clustering coefficient of each snapshot in temporal networks. 
+![Temporal Clustering Coefficient](/images/demonstration.png)
+
+The underlying relationship between temporal and static clustering coefficient reveals essential characteristics of different interaction patterns for various empirical datasets.
+![TC-C patterns](/images/TC-C.png)
+
+## 2023.5 My undergraduate thesis
+
+**Comparison of Asset Pricing Models: Empirical Results in Chinese Stock Market**
+--by Bofan Chen, and Xi Wang
+
+(Get the chinese version [here](https://cbfcbf.github.io/files/Undergraduate%20thesis.pdf).)
+
+In asset pricing theory, a large number of factor models have been proposed in previous literature. It is crucial to compare and select the best model among them using quantitative methods. In this paper, we introduce a Bayesian approach to identify the model with the highest posterior probability. Assuming that the model parameters follow the Jeffery prior, we derive an analytical expression for the posterior probability. For other priors, we also present a numerical method using the Monte Carlo Markov chain technique (MCMC). We apply this method to the Chinese stock market and conclude that the six-factor model {MKT SMB UMD CMA VMG PMO} is the optimal model as of December 2020. Our results also suggest that the optimal model for the Chinese stock market is likely to change over the long run, as market styles evolve. We further test the robustness of our approach and discuss potential directions for future research. 
+
+![Empirical results for model selection in Chinese stock market](/images/Comparision_Models_in_Chinese_stock_market.png)
+
+<!--
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -47,3 +79,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
