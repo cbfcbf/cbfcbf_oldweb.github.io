@@ -7,9 +7,9 @@ author_profile: true
 
 ## Lecturer of the course: Making Drones from Zero 
 
-• Set up a course for drone design at Peking university that was applied by more than 100 students from various departments every semester
+• Set up a course for drone design at Peking university that was applied by more than 100 students from various departments every semester\\
 
-• Mentored 24 students for mechanical design, circuit design, and controller programming
+• Mentored 24 students for mechanical design, circuit design, and controller programming\\
 
 
 ![lecturer](/images/lecturer.jpg#width-full) 
@@ -18,7 +18,7 @@ author_profile: true
 
 ## Design of Ground-Air Cooperative Delivery System
 
-• Aimed to incorporate unmanned vehicles and drones for realizing unmanned express
+• Aimed to incorporate unmanned vehicles and drones for realizing unmanned express\\
 
 • Programmed a pure pursuit controller with ROS in Python that enable the unmanned vehicle to track the precomputed waypoints
 
