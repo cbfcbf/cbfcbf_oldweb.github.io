@@ -11,9 +11,9 @@ author_profile: true
 • Mentored 24 students for mechanical design, circuit design, and controller programming
 
 
-![lecturer](/images/lecturer.jpg#pic_center)
+![lecturer](/images/lecturer.jpg#width-full) 
 
-![Course](/images/Course.jpeg#pic_center)
+![Course](/images/Course.jpeg#width-full)
 
 ## Design of Ground-Air Cooperative Delivery System
 
