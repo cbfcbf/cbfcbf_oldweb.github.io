@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Robot Practice"
+title: "Robot Practice Experience"
 permalink: /activities/
 author_profile: true
 ---
@@ -31,5 +31,5 @@ author_profile: true
 
 ![legged robot](/images/legged_robot.jpg)
 
-## Self-balance Car
+<!-- ## Self-balance Car -->
 
