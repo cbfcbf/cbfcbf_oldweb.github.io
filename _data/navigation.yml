@@ -2,9 +2,10 @@
 main:
   # - title: "Publications"
   #   url: /publications/
-  - title: "Idea"
+  
+  - title: "Theoretical Research Idea"
     url: /idea/
-  - title: "Activities"
+  - title: "Robot Practice Experience"
     url: /activities/
   
   # - title: "Talks"
