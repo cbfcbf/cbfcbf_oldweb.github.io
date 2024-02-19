@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[**Download here**](https://cbfcbf.github.io/files/CV.pdf)
+[**Download here**](https://cbfcbf.github.io/files/CV_Bofan.pdf)
 
 <!--
 {% include base_path %}
