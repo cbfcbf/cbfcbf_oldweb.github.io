@@ -5,6 +5,7 @@ permalink: /activities/
 author_profile: true
 ---
 
+----
 ## Lecturer of the course: Making Drones from Zero 
 
 • Set up a course for drone design at Peking university that was applied by more than 100 students from various departments every semester
@@ -15,6 +16,8 @@ author_profile: true
 ![lecturer](/images/lecturer.png#width-full) 
 
 ![Course](/images/Course.png#width-full)
+
+----
 
 ## Design of Ground-Air Cooperative Delivery System
 
@@ -28,8 +31,12 @@ author_profile: true
 
 ![unmanned delivery](/images/unmanned_delivery.png)
 
+----
+
 ## Design of legged robot
-• Designed a legged robots by Solidworks 
+• Designed a legged robots by SolidWorks 
+
+• Manufactured by 3D printing technology and test different materials
 
 • Use TTL/RS485 serial to realize the communication between 12 motors and computer
 
@@ -37,5 +44,8 @@ author_profile: true
 
 ![legged robot](/images/legged_robot.jpg)
 
-<!-- ## Self-balance Car -->
+<!-- ---- -->
+
+<!-- ## Making Self-balance Car -->
+
 
